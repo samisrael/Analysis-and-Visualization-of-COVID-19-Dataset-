@@ -155,5 +155,27 @@ if 'Active' in df.columns:
 else:
     print("\nNo 'Active' column found in dataset for Histogram.")
 ```
+### Output:
+
+<img width="861" height="296" alt="image" src="https://github.com/user-attachments/assets/81e62bc6-ca8b-4c82-be92-5934d49a37dd" />
+
+<img width="1050" height="377" alt="image" src="https://github.com/user-attachments/assets/5cdcb155-0323-4d1e-9527-13a544879e85" />
+
+<img width="465" height="326" alt="image" src="https://github.com/user-attachments/assets/0ef4bc6f-fd5f-4f9f-bad1-30669f75dfd8" />
+
+<img width="816" height="643" alt="image" src="https://github.com/user-attachments/assets/f7169d4e-b543-4248-bd0b-762043caaec9" />
+
+<img width="810" height="693" alt="image" src="https://github.com/user-attachments/assets/57875380-0953-4c2c-8c8d-30160bab4e4d" />
+
+<img width="654" height="550" alt="image" src="https://github.com/user-attachments/assets/2df98bd4-6e68-42cb-b02a-9317f953d654" />
+
+<img width="862" height="632" alt="image" src="https://github.com/user-attachments/assets/debb4645-7a42-4b43-b4a3-2dbdae673be3" />
+
+<img width="827" height="673" alt="image" src="https://github.com/user-attachments/assets/6dd29f58-a641-499c-a695-3506b137b2c8" />
+
+### Result:
+
+large real-world COVID-19 dataset using Python by performing data exploration and visualizing key trends through various plots such as line graph, bar chart, pie chart, scatter plot, and histogram for meaningful insights is analyzed.
+
 
 
